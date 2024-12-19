@@ -1,0 +1,4 @@
+{
+  "peer_addr": "OTHER_COMPUTERS_BLUETOOTH_ADDRESS",
+  "local_addr": "YOUR_COMPUTERS_BLUETOOTH_ADDRESS"
+}
